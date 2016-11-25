@@ -1,6 +1,6 @@
 name: VoteCore
 version: 1.0
-author: SaloEater
+author: SaloEate
 main: com.salo.votecore.Main
 depend: [Vault]
 commands:
